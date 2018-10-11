@@ -1,0 +1,13 @@
+#wrapper1{
+    margin: auto;
+    width: 80%;
+    height: 100%;
+    background-color: #FDECF8;
+}
+
+#title{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+
+}

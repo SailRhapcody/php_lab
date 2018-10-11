@@ -1,0 +1,43 @@
+
+.auto_wrapper{
+    margin-top: 5px;
+    background-color: #FDECF8;
+    border:1px solid black;
+    border-radius: 10px;
+    height: 160px;
+    
+}
+
+.auto_wrapper  div{
+    display: inline-block;
+}
+.img_wrapper{
+    margin-top: 5px;
+    margin-left:5px;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.singer_wrapper{
+    float: right;
+    font-size: 20px;
+}
+
+.nice_wrapper div{
+    display: block;
+}
+
+.discuss{
+    margin-top:100px;
+    margin-left:450px;
+}
+
+
+.album_wrapper{
+    border:1px solid yellow;
+}
+
+.none_float{
+    float: none;
+}

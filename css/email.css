@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color:grey;
+}
+
+body{
+    width: 80%;
+    margin: auto;
+    background-color:white;
+}
+
+header{
+    height: 40px;
+    width:auto;
+}
+header > ul > li {
+    display: inline;
+}
+
+header > ul > li > a{
+    text-decoration: none;
+    color: white;
+    background-color:black;
+}
+
+header > ul {
+    width:100%;
+    background-color:yellow;
+}
+
+form{
+    margin: 10px;
+}
+
+#text_message{
+    height: 200px;
+    margin-top:10px;
+}
+
+#text_message > div, #topic_message{
+    display: inline;
+    width: 150px;
+}
+#text_message > div {
+    position: relative;
+    bottom:70px;
+}

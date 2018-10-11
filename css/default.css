@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color:grey;
+}
+
+body{
+    width: 80%;
+    margin: auto;
+    background-color:white;
+}
+
+header{
+    height: 40px;
+    width:auto;
+}
+header > ul > li {
+    display: inline;
+}
+
+header > ul > li > a{
+    text-decoration: none;
+    color: white;
+    background-color:black;
+}
+
+header > ul {
+    width:100%;
+    background-color:yellow;
+}
